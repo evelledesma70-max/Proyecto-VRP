@@ -1,0 +1,12 @@
+# Resultados
+
+Este directorio almacena los resultados generados por el algoritmo ACO.
+
+## Contenido
+
+- Archivos Excel con las mejores rutas encontradas
+- Distancia total por instancia
+- Número de vehículos utilizados
+- Estado de resolución de cada problema
+
+Los archivos se generan automáticamente al ejecutar el proyecto.
